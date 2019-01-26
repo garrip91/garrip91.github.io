@@ -129,6 +129,10 @@ textarea.form-control {
 	font-size: 14px;
 }
 
+.glyphicon-search:before {
+    content: "🔍";
+}
+
 .list-group-item, .list-group-warning {
 	background-color: #f9f9f9;
 	color: #8a6d3b;
